@@ -4,8 +4,36 @@
         <description><![CDATA[funny stuff lel]]></description>
         <link>https://thegrid.ai/funny-stuff-lel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 19:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2015 19:48:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/funny-stuff-lel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/SsPf2Ia.jpg">]]></description>
+            <link>https://thegrid.ai/funny-stuff-lel/8ee03adf-0fd6-47ed-9b44-7d4cf9e7727d/index.html</link>
+            <guid isPermaLink="false">8ee03adf-0fd6-47ed-9b44-7d4cf9e7727d</guid>
+            <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<video src="http://i.imgur.com/1RR2zUT.webm"></video>]]></description>
+            <link>https://thegrid.ai/funny-stuff-lel/d710f5af-6f66-4466-9a9e-d485d4e9c356/index.html</link>
+            <guid isPermaLink="false">d710f5af-6f66-4466-9a9e-d485d4e9c356</guid>
+            <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/UsHPn4D.jpg">]]></description>
+            <link>https://thegrid.ai/funny-stuff-lel/f3d87cf5-ffcc-4333-875a-4ea8126c2478/index.html</link>
+            <guid isPermaLink="false">f3d87cf5-ffcc-4333-875a-4ea8126c2478</guid>
+            <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/btq6f0e.png">]]></description>
+            <link>https://thegrid.ai/funny-stuff-lel/42e6f467-616a-43f1-be0b-78cabf032421/index.html</link>
+            <guid isPermaLink="false">42e6f467-616a-43f1-be0b-78cabf032421</guid>
+            <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/mYqrc20.jpg">]]></description>
@@ -47,34 +75,6 @@
             <link>https://thegrid.ai/funny-stuff-lel/2bcbd382-a9d1-46bc-b4de-dc3bdcb5543e/index.html</link>
             <guid isPermaLink="false">2bcbd382-a9d1-46bc-b4de-dc3bdcb5543e</guid>
             <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/HB9n8M0.png">]]></description>
-            <link>https://thegrid.ai/funny-stuff-lel/71a50bc7-0792-4358-84e4-f677e0ce4548/index.html</link>
-            <guid isPermaLink="false">71a50bc7-0792-4358-84e4-f677e0ce4548</guid>
-            <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/oC8LJXO.jpg">]]></description>
-            <link>https://thegrid.ai/funny-stuff-lel/85661008-8817-4234-b49c-86f1e16d4648/index.html</link>
-            <guid isPermaLink="false">85661008-8817-4234-b49c-86f1e16d4648</guid>
-            <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<video src="http://i.imgur.com/AdZCbFk.webm"></video>]]></description>
-            <link>https://thegrid.ai/funny-stuff-lel/2ce40b04-8b10-40dc-a7f0-02dbfcf6c4fa/index.html</link>
-            <guid isPermaLink="false">2ce40b04-8b10-40dc-a7f0-02dbfcf6c4fa</guid>
-            <pubDate>Sun, 01 Nov 2015 19:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/LukK1z7.jpg">]]></description>
-            <link>http://imgur.com/LukK1z7</link>
-            <guid isPermaLink="false">b130f234-f846-4e54-b8c8-acd352ce60a6</guid>
-            <pubDate>Sun, 01 Nov 2015 19:39:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
