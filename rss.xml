@@ -4,14 +4,28 @@
         <description><![CDATA[funny stuff lel]]></description>
         <link>https://thegrid.ai/funny-stuff-lel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 19:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2015 19:48:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/funny-stuff-lel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/oC8LJXO.jpg">]]></description>
+            <link>https://thegrid.ai/funny-stuff-lel/85661008-8817-4234-b49c-86f1e16d4648/index.html</link>
+            <guid isPermaLink="false">85661008-8817-4234-b49c-86f1e16d4648</guid>
+            <pubDate>Sun, 01 Nov 2015 19:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<video src="http://i.imgur.com/AdZCbFk.webm"></video>]]></description>
+            <link>https://thegrid.ai/funny-stuff-lel/2ce40b04-8b10-40dc-a7f0-02dbfcf6c4fa/index.html</link>
+            <guid isPermaLink="false">2ce40b04-8b10-40dc-a7f0-02dbfcf6c4fa</guid>
+            <pubDate>Sun, 01 Nov 2015 19:39:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/LukK1z7.jpg">]]></description>
             <link>http://imgur.com/LukK1z7</link>
             <guid isPermaLink="false">b130f234-f846-4e54-b8c8-acd352ce60a6</guid>
-            <pubDate>Sun, 01 Nov 2015 19:37:55 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2015 19:39:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
